@@ -24,7 +24,7 @@ Visit OpenGeoMetadata [online](https://opengeometadata.org) or on [GitHub](https
 
 ## Getting Involved
 
-We  welcome contributions from the community. Whether you're a coder, a documenter, or just an enthusiast of geospatial data, there's a place for you here. Check out our [contributing guidelines](https://github.com/geoblacklight/geoblacklight/commit/18ebdda503a0453dcfc3cd689999e983812587f5) for more information.
+We  welcome contributions from the community. Whether you're a coder, a documenter, or just an enthusiast of geospatial data, there's a place for you here. Check out our [contributing guidelines](https://github.com/geoblacklight/geoblacklight/blob/main/CONTRIBUTING.md) for more information.
 
 ## Support and Discussion
 
