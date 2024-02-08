@@ -10,10 +10,10 @@ GeoBlacklight is an open-source Ruby on Rails software application for discoveri
 The core GeoBlacklight application. This repository contains the source code for developers and users.
 
 ### [docs](https://github.com/geoblacklight/docs)
-The home of our documentation. Includes user guides, technical documentation, and tutorials.
+
 
 ### [geoblacklight.github.io](https://github.com/geoblacklight/geoblacklight.github.io)
-Public-facing website describing the application and our community.
+Public-facing website describing the application, our community, and technical documentation
 
 ### [geoblacklight-sidecar-images](https://github.com/geoblacklight/geoblacklight_sidecar_images)
 Plugin for storing local copies of remote imagery in GeoBlacklight.
