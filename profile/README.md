@@ -1,6 +1,6 @@
 # Welcome to [GeoBlacklight](https://geoblacklight.org/) on GitHub!
 
-![GeoBlacklight Logo](https://geoblacklight.org/images/geoblacklight-logo@2x.png)
+![GeoBlacklight Logo](https://geoblacklight.org/latest/images/gbl-favicon.png)
 
 GeoBlacklight is an open-source Ruby on Rails software application for discovering geospatial content, including GIS datasets, web services, and digitized paper maps. This GitHub organization hosts the source code, documentation, and community-contributed resources.
 
