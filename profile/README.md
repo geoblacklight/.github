@@ -25,4 +25,4 @@ We  welcome contributions from the community. Whether you're a coder, a document
 
 ## Support and Discussion
 
-Got questions or want to discuss GeoBlacklight? Find ways to [connect on our website](https://geoblacklight.org/connect/).
+Got questions or want to discuss GeoBlacklight? Find ways to [connect on our website](https://geoblacklight.org/latest/community/).
